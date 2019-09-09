@@ -91,4 +91,4 @@ nbreFichier=0 #nombre de fichiers rangés
 # ======================================================
 
 echo "$nbreFichier"
-cat "$dRanger/rangeurUNIX.log"
+cat "$dLog/rangeurUNIX.log"
