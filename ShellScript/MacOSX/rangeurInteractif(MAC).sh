@@ -7,7 +7,7 @@
 #  | |/_| / _' | '_  \/ _' |/ _ \| | | | |/_| |  | | |  \ | | |  / /\ \
 #  | |   / (_| | | | | (_) |  __/| |_| | |  | |__| | |   \  | | / /  \ \
 #  |_|   \___,_|_| |_|\__  |\___|\___._|_|  \______|_|    \_|_|/_/    \_|
-#                      __| | HOFFMANN Julien © 2019
+#                      __| | HOFFMANN Julien © 2019 - 2020
 #                     (____| Github https://github.com/luminahateo
 
 # Programme testé sur Mac OS X Mavericks, Sierra & High Sierra
